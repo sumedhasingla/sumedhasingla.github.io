@@ -1,2 +1,1 @@
-# sumedhasingla.github.io
-Sumedha single website
+# Sumedha Singla
